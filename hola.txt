@@ -1,2 +1,10 @@
 Hola Gus
 Hola Git
+
+Hola Gusanito, haras pull aquí y veras mis saludos.
+
+No hay merge conflict, porque no te estoy cambiando nada.
+
+Abrazo!!
+
+:) 
